@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HAFTALIK HAVA DURUMU</string>
+    <string name="OPEN_WEATHER_MAP_API_KEY" />
+    <string name="action_settings">Settings</string>
+    <string name="appbar_scrolling_view_behavior">My weather app</string>
+    <string name="temp">sıcakllık</string>
+    <!-- Put your own APP ID here -->
+    <string name="open_weather_maps_app_id">b93fd7d5703b0a73bd479fc5701b4208</string>
+    <string name="place_not_found">Üzgünüz,hava durumu verisi yok...</string>
+    <string name="please_wait">Bekleyiniz...</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+
+</resources>
